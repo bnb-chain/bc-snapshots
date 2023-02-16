@@ -4,7 +4,7 @@
 
 ### Data
 
-[bc_data_202302.tgz](https://pub-10cd0733ed3540f1a5bd893cdcaf4027.r2.dev/bc-snapshot.tar)
+[bc_data_202302.tgz](https://pub-c0627345c16f47ab858c9469133073a8.r2.dev/data-2023-2-10.tgz)
 
 md5sum checksum: d2aa8443768d724e33c46d1872467523
 
