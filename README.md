@@ -4,9 +4,9 @@
 
 ### Data
 
-[bc_data_202302.tgz](https://pub-c0627345c16f47ab858c9469133073a8.r2.dev/data-2023-2-10.tgz)
+[bc_data_202309.tgz](https://pub-10cd0733ed3540f1a5bd893cdcaf4027.r2.dev/data_20230916.tgz)
 
-md5sum checksum: d2aa8443768d724e33c46d1872467523
+md5sum checksum: d21fe4f5bc84273e08fbab93fca19456
 
 
 
@@ -27,6 +27,6 @@ tar -xvf data.tgz
 
 Step 3: Replace Data
 - Stop the running bc node if you have one by `kill {pid}`, and make sure the node has shut down
-- Consider backup the original data: `mv ${BC_Home_Dir}/data mv ${BC_Home_Dir}/data_bak`
+- Consider backup the original data: `mv ${BC_Home_Dir}/data ${BC_Home_Dir}/data_bak`
 - Replace the data: `mv <uncompressed data dir> ${BC_Home_Dir}/data`
 - Start the bc node again and check the logs
